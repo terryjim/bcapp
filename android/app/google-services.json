@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792612377339",
+    "firebase_url": "https://bcapp-5f8a5.firebaseio.com",
+    "project_id": "bcapp-5f8a5",
+    "storage_bucket": "bcapp-5f8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792612377339:android:3c1f4664af235d36",
+        "android_client_info": {
+          "package_name": "cn.net.bluechips.bcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792612377339-c6soktf70tq5grc2foue8f6c4vk07te2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_SP8hmL9Usn8GM-SdOgXKUK0oW-bA45Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792612377339-c6soktf70tq5grc2foue8f6c4vk07te2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
